@@ -1,0 +1,15 @@
+{
+	"name": "com.supercms.unitysdk",
+	"version": "0.0.1",
+	"displayName": "supercms unity Sdk",
+	"description": "supercms unity SDK",
+	"unity": "2019.1",
+	"dependencies": {
+	},
+	"keyward": ["library", "uitlity"],
+	"author": {
+		"name": "MUNSUNG CHOI",
+		"email": "supercms.naver.com",
+		"url": "nothing"
+	}
+}
